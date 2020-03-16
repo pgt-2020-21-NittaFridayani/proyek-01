@@ -1,0 +1,6 @@
+C:\xampp\htdocs\poltekgt\ebab_mbinsmenu0.png
+C:\xampp\htdocs\poltekgt\ebab_mbinsmenu0_d.png
+C:\xampp\htdocs\poltekgt\ebab_mbinsmenu0_c.png
+C:\xampp\htdocs\poltekgt\mbjsmbinsmenu0.js
+C:\xampp\htdocs\poltekgt\mbcsmbinsmenu0.css
+C:\xampp\htdocs\poltekgt\filelist_rfzq.txt
